@@ -16,10 +16,10 @@ A framework that exploits the potentials of distributed federated learning and d
 5) the local training is done when task queue is empty
 
 
-# Libraries used
-Pandas
-Numpy
-Keras
-Scipy
+# Main Libraries used
+Pandas,
+Numpy,
+Keras,
+Scipy,
 Matplotlib
 
