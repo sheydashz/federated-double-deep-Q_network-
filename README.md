@@ -13,7 +13,7 @@ A framework that exploits the potentials of distributed federated learning and d
 3) calculate the reward/cost of action by optimizing transmit power (in case of offloading) or local computation resource allocation (if local computation is selected)
    and feed it as cost funtion to the RL agent
 4) if the task is processed before its acceptable deadline then the task is successfully processed and is removed from task queue, otherwise task is a failure and remains in the task queue to be processed under another action
-5) the local training is done when task queue is empty
+5) the local training is done when task queue is empty.
 
 
 # Main Libraries used
@@ -22,4 +22,5 @@ Numpy,
 Keras,
 Scipy,
 Matplotlib
+
 
